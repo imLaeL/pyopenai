@@ -32,6 +32,7 @@ Pronto, agora você pode utilizar o script como quiser.
 -------------------------------------------------------------------------
 
 ==> Assim que executar o script você poderá digitar o que deseja, algo como uma pergunta ou pedir uma explicação de algo.
+
 ==> Para encerrar o programa basta pressionar a tecla control com a tecla c (ctrl + c).
 
 O script ainda não está funcionando bem em sistemas Windows
